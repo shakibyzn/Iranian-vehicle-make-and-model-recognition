@@ -1,6 +1,6 @@
 # car-make-and-model-recognition
 
-> Iranian car make and model recognition
+> Iranian vehicle make and model recognition (VMMR)
 
 ---
 
@@ -16,7 +16,7 @@
 ## Description
 
 This project was assigned to me as my bachelor project in the Isfahan university of technology of Iran. <br>
-The project is named as Iranian car make and model recognition using the BVMMR dataset v2 which was given to me by Dr. Mohsen Biglari from Shahrood University of Technology (SUT).<br>
+The project is named as Iranian vehicle make and model recognition (VMMR) using the BVMMR dataset v2 which was given to me by Dr. Mohsen Biglari from Shahrood University of Technology (SUT).<br>
 - Firstly, I tried to make my dataset COCO compatible format for furthur stages of my coding implementation. <br>
 - Mask R-CNN model is then applied to the dataset which was trained from scratch.<br>
 - RetinaNet model was trained using the transfer learning method.<br>
