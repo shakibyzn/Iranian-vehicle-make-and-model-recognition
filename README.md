@@ -1,4 +1,4 @@
-# car-make-and-model-recognition
+# Vehicle-make-and-model-recognition
 
 > Iranian vehicle make and model recognition (VMMR)
 
@@ -22,6 +22,8 @@ The project is named as Iranian vehicle make and model recognition (VMMR) using 
 - RetinaNet model was trained using the transfer learning method.<br>
 Needless to say, due to dataset privacy agreement I cannot share the dataset here and I just show the model results.
 
+[Back To The Top](#Vehicle-make-and-model-recognition)
+
 #### Techniques
 
 - Computer Vision (CV)
@@ -31,7 +33,7 @@ Needless to say, due to dataset privacy agreement I cannot share the dataset her
 	- RetinaNet
 	- Deep Learning
 
-[Back To The Top](#car-make-and-model-recognition)
+[Back To The Top](#Vehicle-make-and-model-recognition)
 
 ---
 
@@ -42,7 +44,7 @@ MIT License
 Copyright (c) [2020] [Shakib Yazdani]
 
 
-[Back To The Top](#car-make-and-model-recognition)
+[Back To The Top](#Vehicle-make-and-model-recognition)
 
 ---
 
@@ -51,4 +53,4 @@ Copyright (c) [2020] [Shakib Yazdani]
 - Twitter - [@iamshakibyz](https://twitter.com/iamshakibyz)
 - LinkedIn - [shakib-yazdani](https://www.linkedin.com/in/shakib-yazdani)
 
-[Back To The Top](#car-make-and-model-recognition)
+[Back To The Top](#Vehicle-make-and-model-recognition)
